@@ -1,1 +1,1 @@
-## [lab2的链接地址:](http://inst.eecs.berkeley.edu/~cs61c/fa16/labs/2/)
+### fa16-lab2: [链接地址](http://inst.eecs.berkeley.edu/~cs61c/fa16/labs/2/)
