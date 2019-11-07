@@ -70,7 +70,7 @@ int vector_get(vector_t *v, size_t loc) {
 	 */
 	if(v == NULL) {
 		fprintf(stderr, "vector_get: passed a NULL vector.\n");
-        abort();
+		abort();
 	}
 
 	/* If the requested location is higher than we have allocated, return 0.
@@ -102,7 +102,7 @@ void vector_set(vector_t *v, size_t loc, int value) {
 		}
 		v->data = new_dataaddr;
 	}
-	
+
 	v->data[loc] = value;
 
 }
