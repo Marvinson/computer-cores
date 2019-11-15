@@ -1,3 +1,4 @@
+### Memory management
 > 我们为您提供了一个实现可变长度数组的框架。本练习是在帮助您熟悉C结构和C中的内存管理。
 > 我的任务是在vector.c的源代码中填写vector_delete()和vector_set()函数，
 > 以便我们的测试代码vector-test.c运行时没有任何的内存管理错误。
